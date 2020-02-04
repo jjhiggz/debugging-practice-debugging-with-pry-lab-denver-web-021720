@@ -9,10 +9,13 @@ def turtles
 end
 
 def turtle_traits(turtles)
+  #turtles = turtles()
   turtles.map do |turtle|
     turtle[:traits].each do |trait|
-      binding.pry
+      #binding.pry
       trait
     end
   end
 end
+
+[["serious", "leader"], ["party dude"], ["cool", "rude"], ["loves being a turtle"]]
