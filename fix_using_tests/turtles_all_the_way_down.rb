@@ -19,4 +19,4 @@ def turtle_traits(turtles)
   end
 end
 
-[["serious", "leader"], ["party dude"], ["cool", "rude"], ["loves being a turtle"]]
+a = [["serious", "leader"], ["party dude"], ["cool", "rude"], ["loves being a turtle"]]
