@@ -5,5 +5,3 @@ describe "turtles_all_the_way_down" do
     expect(turtle_traits(turtles)).to eq([["serious", "leader"], ["party dude"], ["cool", "rude"], ["loves being a turtle"]])
   end
 end
-
-$[["serious", "leader"], ["party dude"], ["cool", "rude"], ["loves being a turtle"]]
